@@ -9,6 +9,10 @@ Name, GitHub username, and (optionally) Contact Info
 
 _This repository is public, so you may not want to include your residence or phone number._
 
+* Ben Adams
+  * GitHub: badams19
+  * Email: adamsbm@whitman.edu
+
 * Richard Farman
   * GitHub: farmanrl
   * Email: farmanrl@whitman.edu
@@ -57,3 +61,7 @@ _This repository is public, so you may not want to include your residence or pho
 * Kai McConnell
   * GitHub:Kaipie5
   * Email: mcconnka@whitman.edu
+
+* Cooper Lazar
+  * GitHub: lazarcl
+  * Email: lazarcl@whitman.edu
