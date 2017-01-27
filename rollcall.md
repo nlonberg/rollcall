@@ -52,3 +52,7 @@ _This repository is public, so you may not want to include your residence or pho
 * Jingyuan Wang
   * GitHub:JingyW
   * Email: wangj2@whitman.edu
+
+* Rajesh Narayan
+    * GitHub : therajesh
+    * Email : narayar@whitman.edu
