@@ -8,6 +8,10 @@ Name, GitHub username, and (optionally) Contact Info
 
 _This repository is public, so you may not want to include your residence or phone number._
 
+* Gary Zhang
+  * GitHub: teslashark
+  * Email:zhangh@whitman.edu
+ 
 * Richard Farman
   * GitHub: farmanrl
   * Email: farmanrl@whitman.edu
