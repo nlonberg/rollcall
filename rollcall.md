@@ -9,6 +9,10 @@ Name, GitHub username, and (optionally) Contact Info
 
 _This repository is public, so you may not want to include your residence or phone number._
 
+* Gary Zhang
+  * GitHub: teslashark
+  * Email:zhangh@whitman.edu
+ 
 * Ben Adams
   * GitHub: badams19
   * Email: adamsbm@whitman.edu
