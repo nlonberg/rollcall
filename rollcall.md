@@ -61,6 +61,10 @@ _This repository is public, so you may not want to include your residence or pho
 * Jingyuan Wang
   * GitHub:JingyW
   * Email: wangj2@whitman.edu
+  
+  * Zachariah Turner
+   * Github: [Eventhisone](https://github.com/Eventhisone)
+   * Email: [turnerzd@whitman.edu](mailto:turnerzd@whitman.edu)
 
 * Rajesh Narayan
     * GitHub : therajesh
