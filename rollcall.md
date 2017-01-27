@@ -77,3 +77,7 @@ _This repository is public, so you may not want to include your residence or pho
 * Cooper Lazar
   * GitHub: lazarcl
   * Email: lazarcl@whitman.edu
+
+* Niki Lonberg
+  * GitHub: nlonberg
+  * Email: nlonberg@gmail.com
