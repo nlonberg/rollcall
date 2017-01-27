@@ -1,3 +1,4 @@
+
 Written in [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).
 
 Rollcall
@@ -52,3 +53,7 @@ _This repository is public, so you may not want to include your residence or pho
 * Jingyuan Wang
   * GitHub:JingyW
   * Email: wangj2@whitman.edu
+  
+* Kai McConnell
+  * GitHub:Kaipie5
+  * Email: mcconnka@whitman.edu
