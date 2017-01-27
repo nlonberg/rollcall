@@ -1,3 +1,4 @@
+
 Written in [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown).
 
 Rollcall
@@ -7,6 +8,14 @@ Name, GitHub username, and (optionally) Contact Info
 ----------------------------------------------------
 
 _This repository is public, so you may not want to include your residence or phone number._
+
+* Gary Zhang
+  * GitHub: teslashark
+  * Email:zhangh@whitman.edu
+ 
+* Ben Adams
+  * GitHub: badams19
+  * Email: adamsbm@whitman.edu
 
 * Richard Farman
   * GitHub: farmanrl
@@ -56,3 +65,11 @@ _This repository is public, so you may not want to include your residence or pho
 * Rajesh Narayan
     * GitHub : therajesh
     * Email : narayar@whitman.edu
+  
+* Kai McConnell
+  * GitHub:Kaipie5
+  * Email: mcconnka@whitman.edu
+
+* Cooper Lazar
+  * GitHub: lazarcl
+  * Email: lazarcl@whitman.edu
